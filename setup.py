@@ -32,4 +32,4 @@ setup(name='gym',
       },
       package_data={'gym': ['envs/mujoco/assets/*.xml', 'envs/classic_control/assets/*.png']},
       tests_require=['nose2', 'mock'],
-)
+)pip instalar pip --ignore-instalado
